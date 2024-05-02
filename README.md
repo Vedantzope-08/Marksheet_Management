@@ -7,6 +7,6 @@ cstdio<br>
 # Info
 The I/O system of C++ contains a set of classes which define the file handling methods. These include ifstream, ofstream and fstream classes. These classes are derived from fstream and from the corresponding iostream class. These classes, designed to manage the disk files, are declared in fstream and therefore we must include this file in any program that uses files.<br>
 In C++, files are mainly dealt by using three classes fstream, ifstream, ofstream available in fstream headerfile. <br>
-<b>1]<\b>ofstream: Stream class to write on files <br>
-<b>2]<\b>ifstream: Stream class to read from files <br>
-<b>3]<\b>fstream: Stream class to both read and write from/to files.<br>
+<b>1]<b>ofstream: Stream class to write on files <br>
+<b>2]<b>ifstream: Stream class to read from files <br>
+<b>3]<b>fstream: Stream class to both read and write from/to files.<br>
